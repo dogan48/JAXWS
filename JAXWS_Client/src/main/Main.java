@@ -21,7 +21,7 @@ public class Main {
 				System.out.println("Name: " + p.getName());
 				System.out.println("Price: " + p.getPrice());
 				
-				System.out.println("=================================");
+				System.out.println("___________________________________");
 			}
 			
 			
